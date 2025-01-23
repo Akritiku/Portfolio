@@ -13,6 +13,5 @@ A Simple portfolio website showcasing my skills, projects, and experiences.
 
 5.Contact Section: A form or links to get in touch with me via email.
 
-# Demo
-You can view the live portfolio here (http://127.0.0.1:5500/Index.html)
+
 
